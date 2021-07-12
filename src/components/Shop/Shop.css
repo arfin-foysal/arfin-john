@@ -1,0 +1,14 @@
+.product{
+    display: flex;
+}
+
+.productContsiner{
+ flex: 70%;
+ margin: 0px 10px 0px 10px;
+ border-right: 1px solid lightgray;
+}
+
+.cardContaner{
+    flex: 30%;
+}
+
